@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-hazel-pi.vercel.app/](https://new-portfolio-hazel-pi.vercel.app/)
 
-- 💬 Ask me about **Mern-stack || React.js, Tailwind CSS, Redux, Express.js, MongoDB, Socket.oi, Next.js**
+- 💬 Ask me about **Mern-stack || React.js, Tailwind CSS, Redux, Express.js, MongoDB, Socket.oi, Next.js, MySQL, Typescript**
 
 - 📫 How to reach me **rahuldas.sde@gmail.com**
 
